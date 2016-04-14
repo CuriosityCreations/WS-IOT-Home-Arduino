@@ -7,7 +7,7 @@ Descriptions:
 
 1. The websocket server is set on the Aruino Yun with python code.
 2. The Python code setup the client application and server at once which is a standalone server.
-3. The JavaScript connect to this server and use remote process calls to send the serial message to Arduino MCU, ATmega 32u4.
+3. The JavaScript connect to this server and use remote process calls to send the serial message to MCU 32u4.
 4. The Python code bypass the Yun bridge to communicate with CPU, Linino AR 9331.
 5. Arduino MCU side can send sensor data to the website (Temperature, humidity, etc)
 6. Arduino MCU side can receive control instructions from the website
