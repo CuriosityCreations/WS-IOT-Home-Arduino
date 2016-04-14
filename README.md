@@ -4,6 +4,7 @@ Autobahn Web socket IOT Home for Arduino Yun
 Code includes JS, Arduino C, Python
 
 Descriptions:
+
 1. The websocket server is set on the Aruino Yun with python code.
 2. The Python code setup the client application and server at once which is a standalone server.
 3. The JavaScript connect to this server and use remote process calls to send the serial message to Arduino MCU, ATmega 32u4.
