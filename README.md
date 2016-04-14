@@ -12,16 +12,6 @@ Descriptions:
 5. Arduino MCU side can send sensor data to the website (Temperature, humidity, etc)
 6. Arduino MCU side can receive control instructions from the website
 
-Below is setup guide provided by Tobias Oberstein.
-
-http://tavendo.com/blog/post/arduino-yun-with-autobahn/
-
-Note : The autobahn version should be 0.9.1 or the standalone server will fail.
-
-Note : The bridge function will be bypassed after commenting the last line of /etc/inittab
-
-Note : The python will autostart after reboot after editing /etc/rc.local
-
 Applications:
 All the features below can be controled by a responsive web on the Phone / tablet / PC.
 
@@ -31,6 +21,16 @@ All the features below can be controled by a responsive web on the Phone / table
 4. Collaberate with Pixy
 5. Collaberate with Pixy Pan/tilt
 6. Real time Smoothie Chart
+
+Below is setup guide provided by Tobias Oberstein.
+
+http://tavendo.com/blog/post/arduino-yun-with-autobahn/
+
+Note : The autobahn version should be 0.9.1 or the standalone server will fail.
+
+Note : The bridge function will be bypassed after commenting the last line of /etc/inittab
+
+Note : The python will autostart after reboot after editing /etc/rc.local
 
 Any question or advice, please mail me.
 
