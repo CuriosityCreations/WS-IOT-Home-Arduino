@@ -28,3 +28,7 @@ All the features below can be controled by a responsive web on the Phone / table
 4. Collaberate with Pixy
 5. Collaberate with Pixy Pan/tilt
 6. Real time Smoothie Chart
+
+Any question or advice, please mail me.
+
+tim9510019@hotmail.com
