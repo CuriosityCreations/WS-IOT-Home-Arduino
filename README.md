@@ -22,7 +22,7 @@ All the features below can be controled by a responsive web on the Phone / table
 5. Collaberate with Pixy Pan/tilt
 6. Real time Smoothie Chart
 
-Below is setup guide provided by Tobias Oberstein.
+Below is the setup guide provided by Tobias Oberstein.
 
 http://tavendo.com/blog/post/arduino-yun-with-autobahn/
 
