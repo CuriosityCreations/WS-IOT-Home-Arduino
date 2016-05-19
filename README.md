@@ -3,7 +3,7 @@ Autobahn Web socket IOT Home for Arduino Yun
 
 Code includes JS, Arduino C, Python
 
-Descriptions:
+#Descriptions:
 
 1. The websocket server is set on the Aruino Yun with python code.
 2. The Python code setup the client application and server at once which is a standalone server.
@@ -12,7 +12,7 @@ Descriptions:
 5. Arduino MCU side can send sensor data to the website (Temperature, humidity, etc)
 6. Arduino MCU side can receive control instructions from the website
 
-Applications:
+#Applications:
 All the features below can be controled by a responsive web on the Phone / tablet / PC.
 
 1. Turn on the air conditioner
@@ -22,7 +22,7 @@ All the features below can be controled by a responsive web on the Phone / table
 5. Collaberate with Pixy Pan/tilt
 6. Real time Smoothie Chart
 
-Below is the setup guide provided by Tobias Oberstein.
+#Below is the setup guide provided by Tobias Oberstein.
 
 http://tavendo.com/blog/post/arduino-yun-with-autobahn/
 
@@ -34,4 +34,3 @@ Note : The python will autostart after reboot after editing /etc/rc.local
 
 Any question or advice, please mail me.
 
-tim9510019@hotmail.com
